@@ -1,5 +1,5 @@
-### Hi !👋 I am Manaswini Sahoo.
-### I am an IT Undergraduate scholar with a penchant for exploring various innovations that are emerging in the technical field that impact directly or indirectly to solve real-world problems.
+### Hello!👋 I am Manaswini Sahoo.
+### An IT Undergraduate scholar with a penchant for exploring various innovations in the technical field that impact d to solve real-world problems.
 
 #### 📫 How to reach me: 2002manaswini@gmail.com
 ####  
