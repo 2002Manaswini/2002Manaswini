@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I am an IT Undergraduate scholar with a penchant for exploring various innovations that are emerging in the technical field.
+### I am an IT Undergraduate scholar with a penchant for exploring various innovations that are emerging in the technical field that impact directly or indirectly to solve real-world problems.
+### 
 
 <!--
 **2002Manaswini/2002Manaswini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
