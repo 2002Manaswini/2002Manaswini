@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manaswini Sahoo.</h1>
-<h3 align="center">An IT Undergraduate scholar with a penchant for exploring various innovations in the technical field that impact to solve real-world problems.</h3>
+<h3 align="center">An IT graduate scholar with a penchant for exploring various innovations in the technical field that impact to solve real-world problems.</h3>
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002manaswini&label=Profile%20views&color=0e75b6&style=flat" alt="2002manaswini" /> </p>
 
